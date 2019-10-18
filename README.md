@@ -1,5 +1,5 @@
-# mexc-token price gnome ticket 
+# ino-coin price gnome ticket 
 
-Gnome 3 desktop ticker for mexc-token price with Python and argos. Rename to mexc-token.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for ino-coin price with Python and argos. Rename to ino-coin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
