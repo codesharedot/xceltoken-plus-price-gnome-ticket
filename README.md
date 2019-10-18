@@ -1,5 +1,5 @@
-# karatgold-coin price gnome ticket 
+# mixin price gnome ticket 
 
-Gnome 3 desktop ticker for karatgold-coin price with Python and argos. Rename to karatgold-coin.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for mixin price with Python and argos. Rename to mixin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
