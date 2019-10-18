@@ -1,5 +1,5 @@
-# oasis-city price gnome ticket 
+# karatgold-coin price gnome ticket 
 
-Gnome 3 desktop ticker for oasis-city price with Python and argos. Rename to oasis-city.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for karatgold-coin price with Python and argos. Rename to karatgold-coin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
