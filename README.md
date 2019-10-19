@@ -1,5 +1,5 @@
-# mixin price gnome ticket 
+# dimension-chain price gnome ticket 
 
-Gnome 3 desktop ticker for mixin price with Python and argos. Rename to mixin.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for dimension-chain price with Python and argos. Rename to dimension-chain.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
