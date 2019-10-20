@@ -1,5 +1,5 @@
-# jewel price gnome ticket 
+# cryptoindex-com-100 price gnome ticket 
 
-Gnome 3 desktop ticker for jewel price with Python and argos. Rename to jewel.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for cryptoindex-com-100 price with Python and argos. Rename to cryptoindex-com-100.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
