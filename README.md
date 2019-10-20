@@ -1,5 +1,5 @@
-# bit-z-token price gnome ticket 
+# veritaseum price gnome ticket 
 
-Gnome 3 desktop ticker for bit-z-token price with Python and argos. Rename to bit-z-token.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for veritaseum price with Python and argos. Rename to veritaseum.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
