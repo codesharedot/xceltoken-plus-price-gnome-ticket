@@ -1,5 +1,5 @@
-# wixlar price gnome ticket 
+# agavecoin price gnome ticket 
 
-Gnome 3 desktop ticker for wixlar price with Python and argos. Rename to wixlar.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for agavecoin price with Python and argos. Rename to agavecoin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
