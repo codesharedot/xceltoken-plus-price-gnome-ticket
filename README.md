@@ -1,5 +1,5 @@
-# maximine-coin price gnome ticket 
+# bitcoin2 price gnome ticket 
 
-Gnome 3 desktop ticker for maximine-coin price with Python and argos. Rename to maximine-coin.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for bitcoin2 price with Python and argos. Rename to bitcoin2.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
