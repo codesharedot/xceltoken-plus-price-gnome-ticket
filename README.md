@@ -1,5 +1,8 @@
-# xceltoken-plus price gnome ticket 
+# xceltoken-plus gnome price ticker
 
-Gnome 3 desktop ticker for xceltoken-plus price with Python and argos. Rename to xceltoken-plus.1r.60s.py and put in ~/.config/argos
+Get xceltoken-plus price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/xceltoken-plus-price-gnome-ticket/](https://codesharedot.github.io/xceltoken-plus-price-gnome-ticket/)
 
-https://pythonbasics.org
+xceltoken-plus price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to xceltoken-plus.1r60s.py and put in ~/.config/argos
